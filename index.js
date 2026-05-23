@@ -1,0 +1,1 @@
+console.log("Restart the journey, and let the adventure begin!");
